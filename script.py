@@ -1,3 +1,3 @@
 __author__ = 'wasim'
 def hello():
-    print "hello world"
+    print "hello world 2"
